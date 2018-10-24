@@ -98,7 +98,10 @@ header.masthead h1 {
 .features-icons .features-icons-item:hover .features-icons-icon i {
   font-size: 5rem;
 }
-
+.videos {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
 .testimonials {
   padding-top: 7rem;
   padding-bottom: 7rem;
